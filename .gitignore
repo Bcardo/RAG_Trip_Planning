@@ -1,0 +1,17 @@
+# Environment
+.env
+
+# Python virtual environment
+.venv/
+
+# macOS artifacts
+__MACOSX/
+.DS_Store
+data/._*
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
